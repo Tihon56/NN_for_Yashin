@@ -24,9 +24,9 @@
 - matplotlib
 
 Их можно установить с помощью команд терминала:
-pip install numpy 
-pip install tensorflow
-pip install matplotlib
+'pip install numpy' 
+'pip install tensorflow'
+'pip install matplotlib'
 
 Использование:
 При запуске у вас начнётся обучение НН.
